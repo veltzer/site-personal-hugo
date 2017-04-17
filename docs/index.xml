@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mark Veltzer&#39;s blog</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Mark Veltzer&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 15 Apr 2017 07:37:20 +0300</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>bar</title>
+      <link>http://example.org/post/bar/</link>
+      <pubDate>Sat, 15 Apr 2017 07:37:20 +0300</pubDate>
+      
+      <guid>http://example.org/post/bar/</guid>
+      <description>this is some content</description>
+    </item>
+    
+    <item>
+      <title>main</title>
+      <link>http://example.org/main/</link>
+      <pubDate>Sat, 15 Apr 2017 00:56:40 +0300</pubDate>
+      
+      <guid>http://example.org/main/</guid>
+      <description>This is some text</description>
+    </item>
+    
+    <item>
+      <title>foo</title>
+      <link>http://example.org/foo/</link>
+      <pubDate>Sat, 15 Apr 2017 00:56:38 +0300</pubDate>
+      
+      <guid>http://example.org/foo/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
